@@ -14,5 +14,5 @@ console.log(typeof emptyValue);
 
 function changeHeading() {
   var heading = document.getElementById("trueElement");
-  heading.innerHTML = "I want Apple";
+  heading.innerHTML = "I want Apple iPhone";
 }
