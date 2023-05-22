@@ -11,3 +11,8 @@ console.log(typeof locationIdentifier);
 console.log(typeof doYouKnowJs);
 console.log(typeof age);
 console.log(typeof emptyValue);
+
+function changeHeading() {
+  var heading = document.getElementById("trueElement");
+  heading.innerHTML = "I want Apple";
+}
